@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\DateTimeKind_\DateTimeKind_\bin\Debug\netcoreapp3.1\DateTimeKind_.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\DateTimeKind_\DateTimeKind_\bin\Debug\netcoreapp3.1\DateTimeKind_.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\DateTimeKind_\DateTimeKind_\bin\Debug\netcoreapp3.1\DateTimeKind_.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\DateTimeKind_\DateTimeKind_\bin\Debug\netcoreapp3.1\DateTimeKind_.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\DateTimeKind_\DateTimeKind_\bin\Debug\netcoreapp3.1\DateTimeKind_.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\DateTimeKind_\DateTimeKind_\bin\Debug\netcoreapp3.1\DateTimeKind_.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\DateTimeKind_\DateTimeKind_\obj\Debug\netcoreapp3.1\DateTimeKind_.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\DateTimeKind_\DateTimeKind_\obj\Debug\netcoreapp3.1\DateTimeKind_.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\DateTimeKind_\DateTimeKind_\obj\Debug\netcoreapp3.1\DateTimeKind_.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\DateTimeKind_\DateTimeKind_\obj\Debug\netcoreapp3.1\DateTimeKind_.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\DateTimeKind_\DateTimeKind_\obj\Debug\netcoreapp3.1\DateTimeKind_.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\DateTimeKind_\DateTimeKind_\obj\Debug\netcoreapp3.1\DateTimeKind_.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\DateTimeKind_\DateTimeKind_\obj\Debug\netcoreapp3.1\DateTimeKind_.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\DateTimeKind_\DateTimeKind_\obj\Debug\netcoreapp3.1\DateTimeKind_.genruntimeconfig.cache

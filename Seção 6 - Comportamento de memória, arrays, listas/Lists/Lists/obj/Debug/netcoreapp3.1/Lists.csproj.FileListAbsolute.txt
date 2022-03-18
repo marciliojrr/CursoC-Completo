@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Lists\Lists\bin\Debug\netcoreapp3.1\Lists.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Lists\Lists\bin\Debug\netcoreapp3.1\Lists.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Lists\Lists\bin\Debug\netcoreapp3.1\Lists.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Lists\Lists\bin\Debug\netcoreapp3.1\Lists.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Lists\Lists\bin\Debug\netcoreapp3.1\Lists.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Lists\Lists\bin\Debug\netcoreapp3.1\Lists.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.genruntimeconfig.cache

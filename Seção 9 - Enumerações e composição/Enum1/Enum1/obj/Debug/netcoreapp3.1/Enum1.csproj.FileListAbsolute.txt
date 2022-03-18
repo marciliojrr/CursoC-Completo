@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 9 - Enumerações e composição\Enum1\Enum1\bin\Debug\netcoreapp3.1\Enum1.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 9 - Enumerações e composição\Enum1\Enum1\bin\Debug\netcoreapp3.1\Enum1.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 9 - Enumerações e composição\Enum1\Enum1\bin\Debug\netcoreapp3.1\Enum1.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 9 - Enumerações e composição\Enum1\Enum1\bin\Debug\netcoreapp3.1\Enum1.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 9 - Enumerações e composição\Enum1\Enum1\bin\Debug\netcoreapp3.1\Enum1.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 9 - Enumerações e composição\Enum1\Enum1\bin\Debug\netcoreapp3.1\Enum1.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 9 - Enumerações e composição\Enum1\Enum1\obj\Debug\netcoreapp3.1\Enum1.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 9 - Enumerações e composição\Enum1\Enum1\obj\Debug\netcoreapp3.1\Enum1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 9 - Enumerações e composição\Enum1\Enum1\obj\Debug\netcoreapp3.1\Enum1.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 9 - Enumerações e composição\Enum1\Enum1\obj\Debug\netcoreapp3.1\Enum1.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 9 - Enumerações e composição\Enum1\Enum1\obj\Debug\netcoreapp3.1\Enum1.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 9 - Enumerações e composição\Enum1\Enum1\obj\Debug\netcoreapp3.1\Enum1.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 9 - Enumerações e composição\Enum1\Enum1\obj\Debug\netcoreapp3.1\Enum1.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 9 - Enumerações e composição\Enum1\Enum1\obj\Debug\netcoreapp3.1\Enum1.genruntimeconfig.cache

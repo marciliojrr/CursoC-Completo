@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\SpecialTopics1\SpecialTopics1\bin\Debug\netcoreapp3.1\SpecialTopics1.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\SpecialTopics1\SpecialTopics1\bin\Debug\netcoreapp3.1\SpecialTopics1.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\SpecialTopics1\SpecialTopics1\bin\Debug\netcoreapp3.1\SpecialTopics1.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\SpecialTopics1\SpecialTopics1\bin\Debug\netcoreapp3.1\SpecialTopics1.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\SpecialTopics1\SpecialTopics1\bin\Debug\netcoreapp3.1\SpecialTopics1.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\SpecialTopics1\SpecialTopics1\bin\Debug\netcoreapp3.1\SpecialTopics1.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\SpecialTopics1\SpecialTopics1\obj\Debug\netcoreapp3.1\SpecialTopics1.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\SpecialTopics1\SpecialTopics1\obj\Debug\netcoreapp3.1\SpecialTopics1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\SpecialTopics1\SpecialTopics1\obj\Debug\netcoreapp3.1\SpecialTopics1.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\SpecialTopics1\SpecialTopics1\obj\Debug\netcoreapp3.1\SpecialTopics1.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\SpecialTopics1\SpecialTopics1\obj\Debug\netcoreapp3.1\SpecialTopics1.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\SpecialTopics1\SpecialTopics1\obj\Debug\netcoreapp3.1\SpecialTopics1.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\SpecialTopics1\SpecialTopics1\obj\Debug\netcoreapp3.1\SpecialTopics1.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\SpecialTopics1\SpecialTopics1\obj\Debug\netcoreapp3.1\SpecialTopics1.genruntimeconfig.cache

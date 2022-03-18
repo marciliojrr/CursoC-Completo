@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.genruntimeconfig.cache

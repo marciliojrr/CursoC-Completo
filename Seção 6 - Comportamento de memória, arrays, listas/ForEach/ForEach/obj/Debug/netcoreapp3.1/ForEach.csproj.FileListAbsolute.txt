@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\ForEach\ForEach\bin\Debug\netcoreapp3.1\ForEach.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\ForEach\ForEach\bin\Debug\netcoreapp3.1\ForEach.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\ForEach\ForEach\bin\Debug\netcoreapp3.1\ForEach.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\ForEach\ForEach\bin\Debug\netcoreapp3.1\ForEach.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\ForEach\ForEach\bin\Debug\netcoreapp3.1\ForEach.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\ForEach\ForEach\bin\Debug\netcoreapp3.1\ForEach.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\ForEach\ForEach\obj\Debug\netcoreapp3.1\ForEach.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\ForEach\ForEach\obj\Debug\netcoreapp3.1\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\ForEach\ForEach\obj\Debug\netcoreapp3.1\ForEach.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\ForEach\ForEach\obj\Debug\netcoreapp3.1\ForEach.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\ForEach\ForEach\obj\Debug\netcoreapp3.1\ForEach.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\ForEach\ForEach\obj\Debug\netcoreapp3.1\ForEach.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\ForEach\ForEach\obj\Debug\netcoreapp3.1\ForEach.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\ForEach\ForEach\obj\Debug\netcoreapp3.1\ForEach.genruntimeconfig.cache

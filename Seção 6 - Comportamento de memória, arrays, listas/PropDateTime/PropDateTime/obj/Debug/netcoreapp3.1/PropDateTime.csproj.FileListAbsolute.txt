@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\PropDateTime\PropDateTime\bin\Debug\netcoreapp3.1\PropDateTime.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\PropDateTime\PropDateTime\bin\Debug\netcoreapp3.1\PropDateTime.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\PropDateTime\PropDateTime\bin\Debug\netcoreapp3.1\PropDateTime.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\PropDateTime\PropDateTime\bin\Debug\netcoreapp3.1\PropDateTime.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\PropDateTime\PropDateTime\bin\Debug\netcoreapp3.1\PropDateTime.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\PropDateTime\PropDateTime\bin\Debug\netcoreapp3.1\PropDateTime.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\PropDateTime\PropDateTime\obj\Debug\netcoreapp3.1\PropDateTime.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\PropDateTime\PropDateTime\obj\Debug\netcoreapp3.1\PropDateTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\PropDateTime\PropDateTime\obj\Debug\netcoreapp3.1\PropDateTime.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\PropDateTime\PropDateTime\obj\Debug\netcoreapp3.1\PropDateTime.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\PropDateTime\PropDateTime\obj\Debug\netcoreapp3.1\PropDateTime.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\PropDateTime\PropDateTime\obj\Debug\netcoreapp3.1\PropDateTime.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\PropDateTime\PropDateTime\obj\Debug\netcoreapp3.1\PropDateTime.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\PropDateTime\PropDateTime\obj\Debug\netcoreapp3.1\PropDateTime.genruntimeconfig.cache

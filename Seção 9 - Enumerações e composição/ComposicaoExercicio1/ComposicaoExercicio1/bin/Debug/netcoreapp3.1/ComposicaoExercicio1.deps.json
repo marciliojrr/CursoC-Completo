@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ComposicaoExercicio1/1.0.0": {
+        "runtime": {
+          "ComposicaoExercicio1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ComposicaoExercicio1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

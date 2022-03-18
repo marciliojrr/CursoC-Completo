@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MetodosEstaticos2/1.0.0": {
+        "runtime": {
+          "MetodosEstaticos2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MetodosEstaticos2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

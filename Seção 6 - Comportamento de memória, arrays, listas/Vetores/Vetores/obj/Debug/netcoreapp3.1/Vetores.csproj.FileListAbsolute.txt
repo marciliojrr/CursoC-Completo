@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.genruntimeconfig.cache

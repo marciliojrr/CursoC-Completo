@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\PropTimeSpan\PropTimeSpan\bin\Debug\netcoreapp3.1\PropTimeSpan.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\PropTimeSpan\PropTimeSpan\bin\Debug\netcoreapp3.1\PropTimeSpan.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\PropTimeSpan\PropTimeSpan\bin\Debug\netcoreapp3.1\PropTimeSpan.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\PropTimeSpan\PropTimeSpan\bin\Debug\netcoreapp3.1\PropTimeSpan.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\PropTimeSpan\PropTimeSpan\bin\Debug\netcoreapp3.1\PropTimeSpan.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\PropTimeSpan\PropTimeSpan\bin\Debug\netcoreapp3.1\PropTimeSpan.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\PropTimeSpan\PropTimeSpan\obj\Debug\netcoreapp3.1\PropTimeSpan.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\PropTimeSpan\PropTimeSpan\obj\Debug\netcoreapp3.1\PropTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\PropTimeSpan\PropTimeSpan\obj\Debug\netcoreapp3.1\PropTimeSpan.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\PropTimeSpan\PropTimeSpan\obj\Debug\netcoreapp3.1\PropTimeSpan.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\PropTimeSpan\PropTimeSpan\obj\Debug\netcoreapp3.1\PropTimeSpan.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\PropTimeSpan\PropTimeSpan\obj\Debug\netcoreapp3.1\PropTimeSpan.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\PropTimeSpan\PropTimeSpan\obj\Debug\netcoreapp3.1\PropTimeSpan.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\PropTimeSpan\PropTimeSpan\obj\Debug\netcoreapp3.1\PropTimeSpan.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\TimeSpan_\TimeSpan_\bin\Debug\netcoreapp3.1\TimeSpan_.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\TimeSpan_\TimeSpan_\bin\Debug\netcoreapp3.1\TimeSpan_.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\TimeSpan_\TimeSpan_\bin\Debug\netcoreapp3.1\TimeSpan_.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\TimeSpan_\TimeSpan_\bin\Debug\netcoreapp3.1\TimeSpan_.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\TimeSpan_\TimeSpan_\bin\Debug\netcoreapp3.1\TimeSpan_.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\TimeSpan_\TimeSpan_\bin\Debug\netcoreapp3.1\TimeSpan_.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\TimeSpan_\TimeSpan_\obj\Debug\netcoreapp3.1\TimeSpan_.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\TimeSpan_\TimeSpan_\obj\Debug\netcoreapp3.1\TimeSpan_.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\TimeSpan_\TimeSpan_\obj\Debug\netcoreapp3.1\TimeSpan_.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\TimeSpan_\TimeSpan_\obj\Debug\netcoreapp3.1\TimeSpan_.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\TimeSpan_\TimeSpan_\obj\Debug\netcoreapp3.1\TimeSpan_.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\TimeSpan_\TimeSpan_\obj\Debug\netcoreapp3.1\TimeSpan_.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\TimeSpan_\TimeSpan_\obj\Debug\netcoreapp3.1\TimeSpan_.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\TimeSpan_\TimeSpan_\obj\Debug\netcoreapp3.1\TimeSpan_.genruntimeconfig.cache

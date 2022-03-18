@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\ModRefOut\ModRefOut\bin\Debug\netcoreapp3.1\ModRefOut.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\ModRefOut\ModRefOut\bin\Debug\netcoreapp3.1\ModRefOut.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\ModRefOut\ModRefOut\bin\Debug\netcoreapp3.1\ModRefOut.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\ModRefOut\ModRefOut\bin\Debug\netcoreapp3.1\ModRefOut.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\ModRefOut\ModRefOut\bin\Debug\netcoreapp3.1\ModRefOut.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\ModRefOut\ModRefOut\bin\Debug\netcoreapp3.1\ModRefOut.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\ModRefOut\ModRefOut\obj\Debug\netcoreapp3.1\ModRefOut.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\ModRefOut\ModRefOut\obj\Debug\netcoreapp3.1\ModRefOut.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\ModRefOut\ModRefOut\obj\Debug\netcoreapp3.1\ModRefOut.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\ModRefOut\ModRefOut\obj\Debug\netcoreapp3.1\ModRefOut.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\ModRefOut\ModRefOut\obj\Debug\netcoreapp3.1\ModRefOut.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\ModRefOut\ModRefOut\obj\Debug\netcoreapp3.1\ModRefOut.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\ModRefOut\ModRefOut\obj\Debug\netcoreapp3.1\ModRefOut.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\ModRefOut\ModRefOut\obj\Debug\netcoreapp3.1\ModRefOut.genruntimeconfig.cache

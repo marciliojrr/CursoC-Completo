@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateAndTime.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateAndTime.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateAndTime.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateAndTime.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateAndTime.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateAndTime.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateAndTime.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateAndTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateAndTime.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateAndTime.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateAndTime.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateAndTime.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateAndTime.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 6 - Comportamento de memória, arrays, listas\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateAndTime.genruntimeconfig.cache

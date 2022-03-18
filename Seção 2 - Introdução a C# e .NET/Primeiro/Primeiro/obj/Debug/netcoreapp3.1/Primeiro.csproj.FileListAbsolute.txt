@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 2 - Introdução a C# e .NET\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 2 - Introdução a C# e .NET\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 2 - Introdução a C# e .NET\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 2 - Introdução a C# e .NET\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 2 - Introdução a C# e .NET\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 2 - Introdução a C# e .NET\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 2 - Introdução a C# e .NET\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 2 - Introdução a C# e .NET\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 2 - Introdução a C# e .NET\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 2 - Introdução a C# e .NET\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 2 - Introdução a C# e .NET\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 2 - Introdução a C# e .NET\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 2 - Introdução a C# e .NET\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 2 - Introdução a C# e .NET\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.genruntimeconfig.cache
