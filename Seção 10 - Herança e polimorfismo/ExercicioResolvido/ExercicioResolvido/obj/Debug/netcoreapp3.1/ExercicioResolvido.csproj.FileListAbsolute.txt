@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 10 - Herança e polimorfismo\ExercicioResolvido\ExercicioResolvido\bin\Debug\netcoreapp3.1\ExercicioResolvido.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 10 - Herança e polimorfismo\ExercicioResolvido\ExercicioResolvido\bin\Debug\netcoreapp3.1\ExercicioResolvido.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 10 - Herança e polimorfismo\ExercicioResolvido\ExercicioResolvido\bin\Debug\netcoreapp3.1\ExercicioResolvido.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 10 - Herança e polimorfismo\ExercicioResolvido\ExercicioResolvido\bin\Debug\netcoreapp3.1\ExercicioResolvido.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 10 - Herança e polimorfismo\ExercicioResolvido\ExercicioResolvido\bin\Debug\netcoreapp3.1\ExercicioResolvido.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 10 - Herança e polimorfismo\ExercicioResolvido\ExercicioResolvido\bin\Debug\netcoreapp3.1\ExercicioResolvido.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 10 - Herança e polimorfismo\ExercicioResolvido\ExercicioResolvido\obj\Debug\netcoreapp3.1\ExercicioResolvido.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 10 - Herança e polimorfismo\ExercicioResolvido\ExercicioResolvido\obj\Debug\netcoreapp3.1\ExercicioResolvido.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 10 - Herança e polimorfismo\ExercicioResolvido\ExercicioResolvido\obj\Debug\netcoreapp3.1\ExercicioResolvido.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 10 - Herança e polimorfismo\ExercicioResolvido\ExercicioResolvido\obj\Debug\netcoreapp3.1\ExercicioResolvido.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 10 - Herança e polimorfismo\ExercicioResolvido\ExercicioResolvido\obj\Debug\netcoreapp3.1\ExercicioResolvido.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 10 - Herança e polimorfismo\ExercicioResolvido\ExercicioResolvido\obj\Debug\netcoreapp3.1\ExercicioResolvido.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 10 - Herança e polimorfismo\ExercicioResolvido\ExercicioResolvido\obj\Debug\netcoreapp3.1\ExercicioResolvido.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 10 - Herança e polimorfismo\ExercicioResolvido\ExercicioResolvido\obj\Debug\netcoreapp3.1\ExercicioResolvido.genruntimeconfig.cache

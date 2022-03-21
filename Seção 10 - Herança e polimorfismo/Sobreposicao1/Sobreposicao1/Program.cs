@@ -1,21 +1,20 @@
 ﻿using Sobreposicao1.Entities;
 using System;
 
-namespace Sobreposicao1
+namespace Sobreposicao1 // Polimorfismo
+
+internal class Program
 {
-    internal class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Account acc1 = new Account(1001, "Alex", 500.0);
-            Account acc2 = new SavingsAccount(1002, "Anna", 500.0, 0.01);
+        Account acc1 = new Account(1001, "Alex", 500.0);
+        Account acc2 = new SavingsAccount(1002, "Anna", 500.0, 0.01);
 
-            acc1.WithDraw(10.0);
-            acc2.WithDraw(10.0);
+        acc1.WithDraw(10.0);
+        acc2.WithDraw(10.0);
 
-            Console.WriteLine(acc1.Ballance);
-            Console.WriteLine(acc2.Ballance);
+        Console.WriteLine(acc1.Ballance);
+        Console.WriteLine(acc2.Ballance);
 
-        }
     }
 }
