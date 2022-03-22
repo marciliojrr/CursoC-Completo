@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\Example3\Example3\bin\Debug\netcoreapp3.1\Example3.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\Example3\Example3\bin\Debug\netcoreapp3.1\Example3.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\Example3\Example3\bin\Debug\netcoreapp3.1\Example3.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\Example3\Example3\bin\Debug\netcoreapp3.1\Example3.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\Example3\Example3\bin\Debug\netcoreapp3.1\Example3.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\Example3\Example3\bin\Debug\netcoreapp3.1\Example3.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\Example3\Example3\obj\Debug\netcoreapp3.1\Example3.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\Example3\Example3\obj\Debug\netcoreapp3.1\Example3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\Example3\Example3\obj\Debug\netcoreapp3.1\Example3.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\Example3\Example3\obj\Debug\netcoreapp3.1\Example3.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\Example3\Example3\obj\Debug\netcoreapp3.1\Example3.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\Example3\Example3\obj\Debug\netcoreapp3.1\Example3.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\Example3\Example3\obj\Debug\netcoreapp3.1\Example3.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\Example3\Example3\obj\Debug\netcoreapp3.1\Example3.genruntimeconfig.cache

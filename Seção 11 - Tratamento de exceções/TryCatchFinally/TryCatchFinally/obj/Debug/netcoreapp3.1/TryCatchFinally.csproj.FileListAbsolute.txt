@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\TryCatchFinally\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\TryCatchFinally\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\TryCatchFinally\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\TryCatchFinally\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\TryCatchFinally\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\TryCatchFinally\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\TryCatchFinally\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\TryCatchFinally\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\TryCatchFinally\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\TryCatchFinally\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\TryCatchFinally\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\TryCatchFinally\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\TryCatchFinally\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\TryCatchFinally\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.genruntimeconfig.cache

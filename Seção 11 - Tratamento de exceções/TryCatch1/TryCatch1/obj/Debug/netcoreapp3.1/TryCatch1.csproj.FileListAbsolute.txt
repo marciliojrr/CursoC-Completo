@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\TryCatch1\TryCatch1\bin\Debug\netcoreapp3.1\TryCatch1.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\TryCatch1\TryCatch1\bin\Debug\netcoreapp3.1\TryCatch1.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\TryCatch1\TryCatch1\bin\Debug\netcoreapp3.1\TryCatch1.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\TryCatch1\TryCatch1\bin\Debug\netcoreapp3.1\TryCatch1.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\TryCatch1\TryCatch1\bin\Debug\netcoreapp3.1\TryCatch1.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\TryCatch1\TryCatch1\bin\Debug\netcoreapp3.1\TryCatch1.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\TryCatch1\TryCatch1\obj\Debug\netcoreapp3.1\TryCatch1.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\TryCatch1\TryCatch1\obj\Debug\netcoreapp3.1\TryCatch1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\TryCatch1\TryCatch1\obj\Debug\netcoreapp3.1\TryCatch1.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\TryCatch1\TryCatch1\obj\Debug\netcoreapp3.1\TryCatch1.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\TryCatch1\TryCatch1\obj\Debug\netcoreapp3.1\TryCatch1.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\TryCatch1\TryCatch1\obj\Debug\netcoreapp3.1\TryCatch1.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\TryCatch1\TryCatch1\obj\Debug\netcoreapp3.1\TryCatch1.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 11 - Tratamento de exceções\TryCatch1\TryCatch1\obj\Debug\netcoreapp3.1\TryCatch1.genruntimeconfig.cache
