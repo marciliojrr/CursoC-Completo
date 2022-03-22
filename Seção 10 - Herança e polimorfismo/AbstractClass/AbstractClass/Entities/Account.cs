@@ -1,0 +1,35 @@
+﻿namespace AbstractClass.Entities
+{
+    internal abstract class Account
+    /*
+     'abstract' em classes, permite que apenas subclasses 
+      possam ser instanciadas.
+    */
+    {
+        // AutoProps
+        public int Number { get; protected set; }
+        public string Holder { get; protected set; }
+        public double Balance { get; protected set; }
+
+        // Constructors
+        public Account() { }
+
+        public Account(int number, string holder, double balance)
+        {
+            Number = number;
+            Holder = holder;
+            Balance = balance;
+        }
+
+        // Methods
+        public virtual void WithDraw(double amount)
+        {
+            Balance -= amount + 5;
+        }
+
+        public void Deposit(double amount)
+        {
+            Balance += amount;
+        }
+    }
+}
