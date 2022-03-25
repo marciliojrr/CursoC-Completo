@@ -1,0 +1,2 @@
+Os arquivos do projeto realizado na Seção 12 do curso pode ser encontrado através do link do repositório: https://github.com/marciliojrr/Chess_Project/tree/main/Xadrez-Console
+The files of the project carried out in Section 12 of the course can be found through the repository link: https://github.com/marciliojrr/Chess_Project/tree/main/Xadrez-Console
