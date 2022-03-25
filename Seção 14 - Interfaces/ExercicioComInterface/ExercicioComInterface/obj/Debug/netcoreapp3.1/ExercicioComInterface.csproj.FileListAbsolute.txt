@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\ExercicioComInterface\ExercicioComInterface\bin\Debug\netcoreapp3.1\ExercicioComInterface.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\ExercicioComInterface\ExercicioComInterface\bin\Debug\netcoreapp3.1\ExercicioComInterface.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\ExercicioComInterface\ExercicioComInterface\bin\Debug\netcoreapp3.1\ExercicioComInterface.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\ExercicioComInterface\ExercicioComInterface\bin\Debug\netcoreapp3.1\ExercicioComInterface.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\ExercicioComInterface\ExercicioComInterface\bin\Debug\netcoreapp3.1\ExercicioComInterface.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\ExercicioComInterface\ExercicioComInterface\bin\Debug\netcoreapp3.1\ExercicioComInterface.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\ExercicioComInterface\ExercicioComInterface\obj\Debug\netcoreapp3.1\ExercicioComInterface.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\ExercicioComInterface\ExercicioComInterface\obj\Debug\netcoreapp3.1\ExercicioComInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\ExercicioComInterface\ExercicioComInterface\obj\Debug\netcoreapp3.1\ExercicioComInterface.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\ExercicioComInterface\ExercicioComInterface\obj\Debug\netcoreapp3.1\ExercicioComInterface.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\ExercicioComInterface\ExercicioComInterface\obj\Debug\netcoreapp3.1\ExercicioComInterface.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\ExercicioComInterface\ExercicioComInterface\obj\Debug\netcoreapp3.1\ExercicioComInterface.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\ExercicioComInterface\ExercicioComInterface\obj\Debug\netcoreapp3.1\ExercicioComInterface.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\ExercicioComInterface\ExercicioComInterface\obj\Debug\netcoreapp3.1\ExercicioComInterface.genruntimeconfig.cache

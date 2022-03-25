@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\ExercicioSemInterface\ExercicioSemInterface\obj\Debug\netcoreapp3.1\ExercicioSemInterface.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\ExercicioSemInterface\ExercicioSemInterface\obj\Debug\netcoreapp3.1\ExercicioSemInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\ExercicioSemInterface\ExercicioSemInterface\obj\Debug\netcoreapp3.1\ExercicioSemInterface.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\ExercicioSemInterface\ExercicioSemInterface\obj\Debug\netcoreapp3.1\ExercicioSemInterface.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\ExercicioSemInterface\ExercicioSemInterface\obj\Debug\netcoreapp3.1\ExercicioSemInterface.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\ExercicioSemInterface\ExercicioSemInterface\bin\Debug\netcoreapp3.1\ExercicioSemInterface.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\ExercicioSemInterface\ExercicioSemInterface\bin\Debug\netcoreapp3.1\ExercicioSemInterface.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\ExercicioSemInterface\ExercicioSemInterface\bin\Debug\netcoreapp3.1\ExercicioSemInterface.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\ExercicioSemInterface\ExercicioSemInterface\bin\Debug\netcoreapp3.1\ExercicioSemInterface.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\ExercicioSemInterface\ExercicioSemInterface\bin\Debug\netcoreapp3.1\ExercicioSemInterface.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\ExercicioSemInterface\ExercicioSemInterface\bin\Debug\netcoreapp3.1\ExercicioSemInterface.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\ExercicioSemInterface\ExercicioSemInterface\obj\Debug\netcoreapp3.1\ExercicioSemInterface.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\ExercicioSemInterface\ExercicioSemInterface\obj\Debug\netcoreapp3.1\ExercicioSemInterface.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\ExercicioSemInterface\ExercicioSemInterface\obj\Debug\netcoreapp3.1\ExercicioSemInterface.genruntimeconfig.cache
