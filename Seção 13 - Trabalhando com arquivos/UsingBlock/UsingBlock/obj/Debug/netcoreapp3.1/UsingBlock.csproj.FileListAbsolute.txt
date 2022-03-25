@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 13 - Trabalhando com arquivos\UsingBlock\UsingBlock\bin\Debug\netcoreapp3.1\UsingBlock.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 13 - Trabalhando com arquivos\UsingBlock\UsingBlock\bin\Debug\netcoreapp3.1\UsingBlock.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 13 - Trabalhando com arquivos\UsingBlock\UsingBlock\bin\Debug\netcoreapp3.1\UsingBlock.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 13 - Trabalhando com arquivos\UsingBlock\UsingBlock\bin\Debug\netcoreapp3.1\UsingBlock.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 13 - Trabalhando com arquivos\UsingBlock\UsingBlock\bin\Debug\netcoreapp3.1\UsingBlock.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 13 - Trabalhando com arquivos\UsingBlock\UsingBlock\bin\Debug\netcoreapp3.1\UsingBlock.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 13 - Trabalhando com arquivos\UsingBlock\UsingBlock\obj\Debug\netcoreapp3.1\UsingBlock.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 13 - Trabalhando com arquivos\UsingBlock\UsingBlock\obj\Debug\netcoreapp3.1\UsingBlock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 13 - Trabalhando com arquivos\UsingBlock\UsingBlock\obj\Debug\netcoreapp3.1\UsingBlock.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 13 - Trabalhando com arquivos\UsingBlock\UsingBlock\obj\Debug\netcoreapp3.1\UsingBlock.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 13 - Trabalhando com arquivos\UsingBlock\UsingBlock\obj\Debug\netcoreapp3.1\UsingBlock.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 13 - Trabalhando com arquivos\UsingBlock\UsingBlock\obj\Debug\netcoreapp3.1\UsingBlock.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 13 - Trabalhando com arquivos\UsingBlock\UsingBlock\obj\Debug\netcoreapp3.1\UsingBlock.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 13 - Trabalhando com arquivos\UsingBlock\UsingBlock\obj\Debug\netcoreapp3.1\UsingBlock.genruntimeconfig.cache
