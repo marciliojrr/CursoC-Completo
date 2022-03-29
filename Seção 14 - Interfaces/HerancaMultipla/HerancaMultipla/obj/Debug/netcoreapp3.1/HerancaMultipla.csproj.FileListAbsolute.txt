@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\HerancaMultipla\HerancaMultipla\bin\Debug\netcoreapp3.1\HerancaMultipla.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\HerancaMultipla\HerancaMultipla\bin\Debug\netcoreapp3.1\HerancaMultipla.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\HerancaMultipla\HerancaMultipla\bin\Debug\netcoreapp3.1\HerancaMultipla.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\HerancaMultipla\HerancaMultipla\bin\Debug\netcoreapp3.1\HerancaMultipla.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\HerancaMultipla\HerancaMultipla\bin\Debug\netcoreapp3.1\HerancaMultipla.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\HerancaMultipla\HerancaMultipla\bin\Debug\netcoreapp3.1\HerancaMultipla.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.genruntimeconfig.cache

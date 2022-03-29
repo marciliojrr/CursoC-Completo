@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\InterfaceIcomparable\InterfaceIcomparable\obj\Debug\netcoreapp3.1\InterfaceIcomparable.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\InterfaceIcomparable\InterfaceIcomparable\obj\Debug\netcoreapp3.1\InterfaceIcomparable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\InterfaceIcomparable\InterfaceIcomparable\obj\Debug\netcoreapp3.1\InterfaceIcomparable.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\InterfaceIcomparable\InterfaceIcomparable\obj\Debug\netcoreapp3.1\InterfaceIcomparable.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\InterfaceIcomparable\InterfaceIcomparable\obj\Debug\netcoreapp3.1\InterfaceIcomparable.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\InterfaceIcomparable\InterfaceIcomparable\bin\Debug\netcoreapp3.1\InterfaceIcomparable.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\InterfaceIcomparable\InterfaceIcomparable\bin\Debug\netcoreapp3.1\InterfaceIcomparable.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\InterfaceIcomparable\InterfaceIcomparable\bin\Debug\netcoreapp3.1\InterfaceIcomparable.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\InterfaceIcomparable\InterfaceIcomparable\bin\Debug\netcoreapp3.1\InterfaceIcomparable.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\InterfaceIcomparable\InterfaceIcomparable\bin\Debug\netcoreapp3.1\InterfaceIcomparable.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\InterfaceIcomparable\InterfaceIcomparable\bin\Debug\netcoreapp3.1\InterfaceIcomparable.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\InterfaceIcomparable\InterfaceIcomparable\obj\Debug\netcoreapp3.1\InterfaceIcomparable.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\InterfaceIcomparable\InterfaceIcomparable\obj\Debug\netcoreapp3.1\InterfaceIcomparable.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\InterfaceIcomparable\InterfaceIcomparable\obj\Debug\netcoreapp3.1\InterfaceIcomparable.genruntimeconfig.cache

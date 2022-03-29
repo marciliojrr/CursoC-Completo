@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\HerdarVSCumprirContrato\HerdarVSCumprirContrato\obj\Debug\netcoreapp3.1\HerdarVSCumprirContrato.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\HerdarVSCumprirContrato\HerdarVSCumprirContrato\obj\Debug\netcoreapp3.1\HerdarVSCumprirContrato.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\HerdarVSCumprirContrato\HerdarVSCumprirContrato\obj\Debug\netcoreapp3.1\HerdarVSCumprirContrato.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\HerdarVSCumprirContrato\HerdarVSCumprirContrato\obj\Debug\netcoreapp3.1\HerdarVSCumprirContrato.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\HerdarVSCumprirContrato\HerdarVSCumprirContrato\obj\Debug\netcoreapp3.1\HerdarVSCumprirContrato.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\HerdarVSCumprirContrato\HerdarVSCumprirContrato\bin\Debug\netcoreapp3.1\HerdarVSCumprirContrato.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\HerdarVSCumprirContrato\HerdarVSCumprirContrato\bin\Debug\netcoreapp3.1\HerdarVSCumprirContrato.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\HerdarVSCumprirContrato\HerdarVSCumprirContrato\bin\Debug\netcoreapp3.1\HerdarVSCumprirContrato.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\HerdarVSCumprirContrato\HerdarVSCumprirContrato\bin\Debug\netcoreapp3.1\HerdarVSCumprirContrato.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\HerdarVSCumprirContrato\HerdarVSCumprirContrato\bin\Debug\netcoreapp3.1\HerdarVSCumprirContrato.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\HerdarVSCumprirContrato\HerdarVSCumprirContrato\bin\Debug\netcoreapp3.1\HerdarVSCumprirContrato.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\HerdarVSCumprirContrato\HerdarVSCumprirContrato\obj\Debug\netcoreapp3.1\HerdarVSCumprirContrato.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\HerdarVSCumprirContrato\HerdarVSCumprirContrato\obj\Debug\netcoreapp3.1\HerdarVSCumprirContrato.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 14 - Interfaces\HerdarVSCumprirContrato\HerdarVSCumprirContrato\obj\Debug\netcoreapp3.1\HerdarVSCumprirContrato.genruntimeconfig.cache
