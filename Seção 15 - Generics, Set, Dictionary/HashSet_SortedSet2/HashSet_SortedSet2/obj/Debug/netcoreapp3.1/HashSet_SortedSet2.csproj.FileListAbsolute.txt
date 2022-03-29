@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\HashSet_SortedSet2\HashSet_SortedSet2\bin\Debug\netcoreapp3.1\HashSet_SortedSet2.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\HashSet_SortedSet2\HashSet_SortedSet2\bin\Debug\netcoreapp3.1\HashSet_SortedSet2.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\HashSet_SortedSet2\HashSet_SortedSet2\bin\Debug\netcoreapp3.1\HashSet_SortedSet2.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\HashSet_SortedSet2\HashSet_SortedSet2\bin\Debug\netcoreapp3.1\HashSet_SortedSet2.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\HashSet_SortedSet2\HashSet_SortedSet2\bin\Debug\netcoreapp3.1\HashSet_SortedSet2.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\HashSet_SortedSet2\HashSet_SortedSet2\bin\Debug\netcoreapp3.1\HashSet_SortedSet2.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\HashSet_SortedSet2\HashSet_SortedSet2\obj\Debug\netcoreapp3.1\HashSet_SortedSet2.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\HashSet_SortedSet2\HashSet_SortedSet2\obj\Debug\netcoreapp3.1\HashSet_SortedSet2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\HashSet_SortedSet2\HashSet_SortedSet2\obj\Debug\netcoreapp3.1\HashSet_SortedSet2.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\HashSet_SortedSet2\HashSet_SortedSet2\obj\Debug\netcoreapp3.1\HashSet_SortedSet2.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\HashSet_SortedSet2\HashSet_SortedSet2\obj\Debug\netcoreapp3.1\HashSet_SortedSet2.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\HashSet_SortedSet2\HashSet_SortedSet2\obj\Debug\netcoreapp3.1\HashSet_SortedSet2.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\HashSet_SortedSet2\HashSet_SortedSet2\obj\Debug\netcoreapp3.1\HashSet_SortedSet2.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\HashSet_SortedSet2\HashSet_SortedSet2\obj\Debug\netcoreapp3.1\HashSet_SortedSet2.genruntimeconfig.cache
