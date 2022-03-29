@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\ExercicioProposto\ExercicioProposto\bin\Debug\netcoreapp3.1\ExercicioProposto.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\ExercicioProposto\ExercicioProposto\bin\Debug\netcoreapp3.1\ExercicioProposto.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\ExercicioProposto\ExercicioProposto\bin\Debug\netcoreapp3.1\ExercicioProposto.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\ExercicioProposto\ExercicioProposto\bin\Debug\netcoreapp3.1\ExercicioProposto.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\ExercicioProposto\ExercicioProposto\bin\Debug\netcoreapp3.1\ExercicioProposto.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\ExercicioProposto\ExercicioProposto\bin\Debug\netcoreapp3.1\ExercicioProposto.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\ExercicioProposto\ExercicioProposto\obj\Debug\netcoreapp3.1\ExercicioProposto.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\ExercicioProposto\ExercicioProposto\obj\Debug\netcoreapp3.1\ExercicioProposto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\ExercicioProposto\ExercicioProposto\obj\Debug\netcoreapp3.1\ExercicioProposto.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\ExercicioProposto\ExercicioProposto\obj\Debug\netcoreapp3.1\ExercicioProposto.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\ExercicioProposto\ExercicioProposto\obj\Debug\netcoreapp3.1\ExercicioProposto.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\ExercicioProposto\ExercicioProposto\obj\Debug\netcoreapp3.1\ExercicioProposto.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\ExercicioProposto\ExercicioProposto\obj\Debug\netcoreapp3.1\ExercicioProposto.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\ExercicioProposto\ExercicioProposto\obj\Debug\netcoreapp3.1\ExercicioProposto.genruntimeconfig.cache
