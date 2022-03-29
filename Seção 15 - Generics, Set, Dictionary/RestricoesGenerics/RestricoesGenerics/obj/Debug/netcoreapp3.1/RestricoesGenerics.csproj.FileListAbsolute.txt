@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\RestricoesGenerics\RestricoesGenerics\bin\Debug\netcoreapp3.1\RestricoesGenerics.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\RestricoesGenerics\RestricoesGenerics\bin\Debug\netcoreapp3.1\RestricoesGenerics.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\RestricoesGenerics\RestricoesGenerics\bin\Debug\netcoreapp3.1\RestricoesGenerics.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\RestricoesGenerics\RestricoesGenerics\bin\Debug\netcoreapp3.1\RestricoesGenerics.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\RestricoesGenerics\RestricoesGenerics\bin\Debug\netcoreapp3.1\RestricoesGenerics.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\RestricoesGenerics\RestricoesGenerics\bin\Debug\netcoreapp3.1\RestricoesGenerics.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\RestricoesGenerics\RestricoesGenerics\obj\Debug\netcoreapp3.1\RestricoesGenerics.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\RestricoesGenerics\RestricoesGenerics\obj\Debug\netcoreapp3.1\RestricoesGenerics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\RestricoesGenerics\RestricoesGenerics\obj\Debug\netcoreapp3.1\RestricoesGenerics.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\RestricoesGenerics\RestricoesGenerics\obj\Debug\netcoreapp3.1\RestricoesGenerics.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\RestricoesGenerics\RestricoesGenerics\obj\Debug\netcoreapp3.1\RestricoesGenerics.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\RestricoesGenerics\RestricoesGenerics\obj\Debug\netcoreapp3.1\RestricoesGenerics.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\RestricoesGenerics\RestricoesGenerics\obj\Debug\netcoreapp3.1\RestricoesGenerics.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\RestricoesGenerics\RestricoesGenerics\obj\Debug\netcoreapp3.1\RestricoesGenerics.genruntimeconfig.cache
