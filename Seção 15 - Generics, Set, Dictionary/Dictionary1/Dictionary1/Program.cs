@@ -37,6 +37,12 @@ namespace Dictionary1
                 Console.WriteLine($"{item.Key}: {item.Value}");
             }
 
+            // Tambem funciona com 'var'
+            //foreach (var item in cookies)
+            //{
+            //    Console.WriteLine($"{item.Key}: {item.Value}");
+            //}
+
         }
     }
 }
