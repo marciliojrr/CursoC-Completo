@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\GetHashCode_EQUALS\GetHashCode_EQUALS\bin\Debug\netcoreapp3.1\GetHashCode_EQUALS.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\GetHashCode_EQUALS\GetHashCode_EQUALS\bin\Debug\netcoreapp3.1\GetHashCode_EQUALS.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\GetHashCode_EQUALS\GetHashCode_EQUALS\bin\Debug\netcoreapp3.1\GetHashCode_EQUALS.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\GetHashCode_EQUALS\GetHashCode_EQUALS\bin\Debug\netcoreapp3.1\GetHashCode_EQUALS.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\GetHashCode_EQUALS\GetHashCode_EQUALS\bin\Debug\netcoreapp3.1\GetHashCode_EQUALS.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\GetHashCode_EQUALS\GetHashCode_EQUALS\bin\Debug\netcoreapp3.1\GetHashCode_EQUALS.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\GetHashCode_EQUALS\GetHashCode_EQUALS\obj\Debug\netcoreapp3.1\GetHashCode_EQUALS.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\GetHashCode_EQUALS\GetHashCode_EQUALS\obj\Debug\netcoreapp3.1\GetHashCode_EQUALS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\GetHashCode_EQUALS\GetHashCode_EQUALS\obj\Debug\netcoreapp3.1\GetHashCode_EQUALS.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\GetHashCode_EQUALS\GetHashCode_EQUALS\obj\Debug\netcoreapp3.1\GetHashCode_EQUALS.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\GetHashCode_EQUALS\GetHashCode_EQUALS\obj\Debug\netcoreapp3.1\GetHashCode_EQUALS.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\GetHashCode_EQUALS\GetHashCode_EQUALS\obj\Debug\netcoreapp3.1\GetHashCode_EQUALS.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\GetHashCode_EQUALS\GetHashCode_EQUALS\obj\Debug\netcoreapp3.1\GetHashCode_EQUALS.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 15 - Generics, Set, Dictionary\GetHashCode_EQUALS\GetHashCode_EQUALS\obj\Debug\netcoreapp3.1\GetHashCode_EQUALS.genruntimeconfig.cache
