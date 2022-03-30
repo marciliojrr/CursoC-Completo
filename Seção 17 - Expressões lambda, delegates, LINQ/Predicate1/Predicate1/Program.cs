@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Predicate1.Entities;
+using System.Linq; // Para usar o Select
 
 namespace Predicate1
 {
@@ -15,42 +16,42 @@ namespace Predicate1
             list.Add(new Product("Tablet", 350.50));
             list.Add(new Product("HD Case", 80.90));
 
-
             // Modo 1
-            //list.foreach (updateprice) ;
-            //foreach (product p in list)
+            //List<string> result = list.Select(NameUpper).ToList();
+            //foreach (var item in result)
             //{
-            //    console.writeline(p);
+            //    Console.WriteLine(item);
             //}
 
             // Modo 2
-            //Action<Product> act = UpdatePrice;
-            //list.ForEach(act);
-            //foreach (Product p in list)
+            //Func<Product, string> func = NameUpper;
+            //List<string> result = list.Select(func).ToList();
+            //foreach (var item in result)
             //{
-            //    Console.WriteLine(p);
+            //    Console.WriteLine(item);
             //}
 
             // Modo 3
-            //Action<Product> act = p => { p.Price += p.Price * 0.1; }; // tem que ter chaves, pois tem corpo mas retorna void
-            //list.ForEach(act);
-            //foreach (Product p in list)
+            //Func<Product, string> func = p => p.Name.ToUpper();
+            //List<string> result = list.Select(func).ToList();
+            //foreach (var item in result)
             //{
-            //    Console.WriteLine(p);
+            //    Console.WriteLine(item);
             //}
 
             // Modo 4
-            list.ForEach(p => { p.Price += p.Price * 0.1; });
-            foreach (Product p in list)
+            List<string> result = list.Select(p => p.Name.ToUpper()).ToList();
+            foreach (var item in result)
             {
-                Console.WriteLine(p);
+                Console.WriteLine(item);
             }
+
         }
         // Funcao auxiliar
         // Necessario para Modo 1 e Modo 2
-        static void UpdatePrice(Product p)
-        {
-            p.Price += p.Price * 0.1;
-        }
+        //static string NameUpper(Product p)
+        //{
+        //    return p.Name.ToUpper();
+        //}
     }
 }
