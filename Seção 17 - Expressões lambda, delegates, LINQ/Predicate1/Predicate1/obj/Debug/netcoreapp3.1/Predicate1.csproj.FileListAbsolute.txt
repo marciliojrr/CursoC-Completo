@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\Predicate1\Predicate1\bin\Debug\netcoreapp3.1\Predicate1.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\Predicate1\Predicate1\bin\Debug\netcoreapp3.1\Predicate1.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\Predicate1\Predicate1\bin\Debug\netcoreapp3.1\Predicate1.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\Predicate1\Predicate1\bin\Debug\netcoreapp3.1\Predicate1.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\Predicate1\Predicate1\bin\Debug\netcoreapp3.1\Predicate1.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\Predicate1\Predicate1\bin\Debug\netcoreapp3.1\Predicate1.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\Predicate1\Predicate1\obj\Debug\netcoreapp3.1\Predicate1.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\Predicate1\Predicate1\obj\Debug\netcoreapp3.1\Predicate1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\Predicate1\Predicate1\obj\Debug\netcoreapp3.1\Predicate1.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\Predicate1\Predicate1\obj\Debug\netcoreapp3.1\Predicate1.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\Predicate1\Predicate1\obj\Debug\netcoreapp3.1\Predicate1.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\Predicate1\Predicate1\obj\Debug\netcoreapp3.1\Predicate1.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\Predicate1\Predicate1\obj\Debug\netcoreapp3.1\Predicate1.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\Predicate1\Predicate1\obj\Debug\netcoreapp3.1\Predicate1.genruntimeconfig.cache
