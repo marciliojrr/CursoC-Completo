@@ -9,16 +9,6 @@ namespace ExercicioFixacao
 {
     internal class Program
     {
-        // Funcao auxiliar
-        static void Print<T>(string message, IEnumerable<T> collection)
-        {
-            Console.WriteLine(message);
-            foreach (T obj in collection)
-            {
-                Console.WriteLine(obj);
-            }
-            Console.WriteLine();
-        }
         static void Main(string[] args)
         {
             Console.Write("Enter full file path: ");
@@ -44,11 +34,14 @@ namespace ExercicioFixacao
                 Console.Write("\nEnter salary: $");
 
                 double salaryInfo = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                var employeeInfo = employees.Where(e => e.Salary > salaryInfo).OrderBy(e => e.Name).Select(e => e.Email);
-                Print($"Email of people whose salary is more than {salaryInfo}:", employeeInfo);
+                var employeeInfo = employees.Where(e => e.Salary > salaryInfo).OrderBy(e => e.Email).Select(e => e.Email);
+                foreach (string employee in employeeInfo)
+                {
+                    Console.WriteLine(employee);
+                }
 
                 double salaryValues = employees.Where(e => e.Name[0] == 'M').Sum(e => e.Salary);
-                Console.Write($"Sum of salary of people whose name starts with 'M': $, {salaryValues}");
+                Console.Write($"\nSum of salary of people whose name starts with 'M': ${salaryValues.ToString("F2", CultureInfo.InvariantCulture)}");
             }
             catch (IOException e)
             {
