@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\LINQ1\LINQ1\bin\Debug\netcoreapp3.1\LINQ1.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\LINQ1\LINQ1\bin\Debug\netcoreapp3.1\LINQ1.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\LINQ1\LINQ1\bin\Debug\netcoreapp3.1\LINQ1.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\LINQ1\LINQ1\bin\Debug\netcoreapp3.1\LINQ1.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\LINQ1\LINQ1\bin\Debug\netcoreapp3.1\LINQ1.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\LINQ1\LINQ1\bin\Debug\netcoreapp3.1\LINQ1.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\LINQ1\LINQ1\obj\Debug\netcoreapp3.1\LINQ1.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\LINQ1\LINQ1\obj\Debug\netcoreapp3.1\LINQ1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\LINQ1\LINQ1\obj\Debug\netcoreapp3.1\LINQ1.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\LINQ1\LINQ1\obj\Debug\netcoreapp3.1\LINQ1.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\LINQ1\LINQ1\obj\Debug\netcoreapp3.1\LINQ1.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\LINQ1\LINQ1\obj\Debug\netcoreapp3.1\LINQ1.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\LINQ1\LINQ1\obj\Debug\netcoreapp3.1\LINQ1.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\LINQ1\LINQ1\obj\Debug\netcoreapp3.1\LINQ1.genruntimeconfig.cache
