@@ -76,6 +76,50 @@ namespace LinqLambda
 
             var r11 = products.Where(p => p.Id == 30).SingleOrDefault();
             Console.WriteLine("Single or defaut test2: " + r11);
+
+            // Operacoes de agregacao
+            var r12 = products.Max(p => p.Price);
+            Console.WriteLine("Max price: " + r12);
+
+            var r13 = products.Min(p => p.Price);
+            Console.WriteLine("Min price: " + r13);
+
+            var r14 = products.Where(p => p.Category.Id == 1).Sum(p => p.Price);
+            Console.WriteLine("Category 1 sum prices: " + r14);
+
+            var r15 = products.Where(p => p.Category.Id == 1).Average(p => p.Price);
+            Console.WriteLine("Category 1 Avarage prices: " + r15);
+
+            var r16 = products.Where(p => p.Category.Id == 5).Select(p => p.Price).DefaultIfEmpty(0.0).Average();
+            Console.WriteLine("Category 5 Avarage prices: " + r16);
+
+            var r17 = products.Where(p => p.Category.Id == 1).Select(p => p.Price).Aggregate((x, y) => x + y);
+            Console.WriteLine("CATEGORY 1 AGGREGATE Sum: " + r17);
+
+            var r18 = products.Where(p => p.Category.Id == 5).Select(p => p.Price).Aggregate(0.0, (x, y) => x + y);
+            Console.WriteLine("CATEGORY 5 AGGREGATE Sum: " + r18);
+            Console.WriteLine();
+
+            // Mostrar produtos por categoria
+            var r19 = products.GroupBy(p => p.Category);
+            foreach (IGrouping<Category, Product> group in r19)
+            {
+                Console.WriteLine($"Category {group.Key.Name}: ");
+                foreach (Product product in group)
+                {
+                    Console.WriteLine(product);
+                }
+                Console.WriteLine();
+            }
+
+
+
+
+
+
+
+
+
         }
     }
 }
