@@ -1,0 +1,14 @@
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\LinqLambda\LinqLambda\bin\Debug\netcoreapp3.1\LinqLambda.exe
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\LinqLambda\LinqLambda\bin\Debug\netcoreapp3.1\LinqLambda.deps.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\LinqLambda\LinqLambda\bin\Debug\netcoreapp3.1\LinqLambda.runtimeconfig.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\LinqLambda\LinqLambda\bin\Debug\netcoreapp3.1\LinqLambda.runtimeconfig.dev.json
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\LinqLambda\LinqLambda\bin\Debug\netcoreapp3.1\LinqLambda.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\LinqLambda\LinqLambda\bin\Debug\netcoreapp3.1\LinqLambda.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\LinqLambda\LinqLambda\obj\Debug\netcoreapp3.1\LinqLambda.csproj.AssemblyReference.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\LinqLambda\LinqLambda\obj\Debug\netcoreapp3.1\LinqLambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\LinqLambda\LinqLambda\obj\Debug\netcoreapp3.1\LinqLambda.AssemblyInfoInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\LinqLambda\LinqLambda\obj\Debug\netcoreapp3.1\LinqLambda.AssemblyInfo.cs
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\LinqLambda\LinqLambda\obj\Debug\netcoreapp3.1\LinqLambda.csproj.CoreCompileInputs.cache
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\LinqLambda\LinqLambda\obj\Debug\netcoreapp3.1\LinqLambda.dll
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\LinqLambda\LinqLambda\obj\Debug\netcoreapp3.1\LinqLambda.pdb
+D:\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy\Seção 17 - Expressões lambda, delegates, LINQ\LinqLambda\LinqLambda\obj\Debug\netcoreapp3.1\LinqLambda.genruntimeconfig.cache
